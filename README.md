@@ -4,10 +4,10 @@
 - [ ] Spring Boot
 - [ ] Back-end/API
 - [ ] Microsserviços
-- [ ] Docker/Kubernetes
+- [ ] Docker and/or Kubernetes
 - [ ] Kafka
-- [ ] Nuvem (AWS/GCP)
-- [ ] Testes (TDD/BDD)
+- [ ] Nuvem (AWS or GCP)
+- [ ] Testes (TDD and BDD)
 - [ ] Integração contínua (GitHub Actions)
 
 ## license
